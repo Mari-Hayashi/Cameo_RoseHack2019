@@ -16,8 +16,8 @@ Built With
 ---------------------------------------
 Authors
 
-Mari Hayashi - https://github.com/Mari-Hayashi
-Van Truong
-An Pho
-Johan Guzman
-Jeremy Tsai
+- Mari Hayashi - https://github.com/Mari-Hayashi
+- Van Truong
+- An Pho
+- Johan Guzman
+- Jeremy Tsai
