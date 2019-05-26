@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cameo</string>
+    <string name="wait">Waiting for your opponent.</string>
+    <string name="draw">Draw a card or call Cameo.</string>
+    <string name="draw_pull">Draw a card, call Cameo, or tap your card to pull out a card.</string>
+    <string name="choose">Switch with your card or play.</string>
+    <string name="see_bottom">Choose one of your bottom cards to look at.</string>
+    <string name="see_top">Choose one of your top cards to look at.</string>
+    <string name="switch_card">Choose one of your cards to switch with a new card.</string>
+    <string name="cameo">Your opponent called Cameo! Draw a card or call Cameo.</string>
+    <string name="tie">The game is tie.</string>
+    <string name="won">Congratulations! You won!</string>
+    <string name="lost">You lost.</string>
+    <string name="def">Current state is not assigned properly.</string>
+    <string name="looking">Tap your card again when you are done.</string>
+    <string name="btt_cameo">CAMEO</string>
+    <string name="btt_draw">DRAW</string>
+    <string name="tap">Tap your card to pull out a card.</string>
+    <string name="wrong">Too bad! Your card has a different number!</string>
+    <string name="wrong_draw">Too bad! Your card has a different number! Draw a card or call Cameo.</string>
+
+</resources>
